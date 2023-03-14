@@ -1,0 +1,17 @@
+C:\Global.Erick.com\ROBOTS\ReportePT\ReportePTGPS\bin\Debug\ReportePTGPS.exe.config
+C:\Global.Erick.com\ROBOTS\ReportePT\ReportePTGPS\bin\Debug\ReportePTGPS.exe
+C:\Global.Erick.com\ROBOTS\ReportePT\ReportePTGPS\bin\Debug\ReportePTGPS.pdb
+C:\Global.Erick.com\ROBOTS\ReportePT\ReportePTGPS\bin\Debug\Dapper.dll
+C:\Global.Erick.com\ROBOTS\ReportePT\ReportePTGPS\bin\Debug\Dapper.xml
+C:\Global.Erick.com\ROBOTS\ReportePT\ReportePTGPS\obj\Debug\ReportePTGPS.csproj.CoreCompileInputs.cache
+C:\Global.Erick.com\ROBOTS\ReportePT\ReportePTGPS\obj\Debug\ReportePTGPS.csproj.CopyComplete
+C:\Global.Erick.com\ROBOTS\ReportePT\ReportePTGPS\obj\Debug\ReportePTGPS.exe
+C:\Global.Erick.com\ROBOTS\ReportePT\ReportePTGPS\obj\Debug\ReportePTGPS.pdb
+C:\Global.Erick.com\ROBOTS\ReportePT\ReportePTGPS\bin\Debug\ClosedXML.dll
+C:\Global.Erick.com\ROBOTS\ReportePT\ReportePTGPS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Global.Erick.com\ROBOTS\ReportePT\ReportePTGPS\bin\Debug\ExcelNumberFormat.dll
+C:\Global.Erick.com\ROBOTS\ReportePT\ReportePTGPS\bin\Debug\ClosedXML.xml
+C:\Global.Erick.com\ROBOTS\ReportePT\ReportePTGPS\bin\Debug\ExcelNumberFormat.xml
+C:\Global.Erick.com\ROBOTS\ReportePT\ReportePTGPS\bin\Debug\System.IO.Packaging.dll
+C:\Global.Erick.com\ROBOTS\ReportePT\ReportePTGPS\bin\Debug\System.IO.Packaging.xml
+C:\Global.Erick.com\ROBOTS\ReportePT\ReportePTGPS\obj\Debug\ReportePTGPS.csproj.AssemblyReference.cache
